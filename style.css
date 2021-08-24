@@ -1,0 +1,31 @@
+
+
+body{
+  
+    overflow: auto;
+    background-color:black;
+    color: chartreuse;
+}
+
+.image{
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    
+}
+
+a{
+    text-decoration: none;
+    color:chartreuse;
+
+}
+
+a:hover{
+    color: white;
+    transition: 0.2s ease-in;
+}
+
+.tab{
+    border: 5px double whitesmoke;
+}

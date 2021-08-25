@@ -1,10 +1,10 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
 
 body{
-  
+  font-family: 'Urbanist', sans-serif;
     overflow: auto;
-    background-color:black;
-    color: chartreuse;
+    background-color:lightblue;
+    color: black;
 }
 
 .image{
@@ -17,7 +17,8 @@ body{
 
 a{
     text-decoration: none;
-    color:chartreuse;
+    color:black;
+    font-size: 20px;
 
 }
 
@@ -28,4 +29,14 @@ a:hover{
 
 .tab{
     border: 5px double whitesmoke;
+}
+
+hr{
+    
+    border: 1px solid white;
+}
+
+.title{
+    
+    text-align: center;
 }
